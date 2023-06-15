@@ -33,7 +33,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
-# CSRF_TRUSTED_ORIGINS = ['https://dns.com']
+CSRF_TRUSTED_ORIGINS = ['https://dj-deployment-production.up.railway.app']
 
 # Application definition
 
